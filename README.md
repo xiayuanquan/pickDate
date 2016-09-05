@@ -7,8 +7,8 @@ JavaScript---日期选择器组件
 
 
 用法：
-
-    使用日期在选择其组件其实很简单，我们只需要在*.html文件里面引入日期选择器的*.js文件，并在input输入框中设置'onclick'事件即可。
+	
+    使用日期选择器组件其实很简单，我们只需要在*.html文件里面引入日期选择器的*.js文件，并在input输入框中设置'onclick'事件即可。
 
 演示：
 
@@ -20,9 +20,9 @@ JavaScript---日期选择器组件
 
 方式一：使用My97DatePicker效果图
    
-   ![image](https://github.com/xiayuanquan/pickDate/blob/master/screenshots/2.png)
+   ![image](https://github.com/xiayuanquan/pickDate/blob/master/screenshots/1.png)
    
 方式二：使用MyCustomDatePicker效果图
   
-   ![image](https://github.com/xiayuanquan/pickDate/blob/master/screenshots/1.png)
+   ![image](https://github.com/xiayuanquan/pickDate/blob/master/screenshots/2.png)
 	
